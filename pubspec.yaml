@@ -1,0 +1,4 @@
+name: parser
+
+environment: 
+  sdk: '>=2.18.7 <3.0.0'

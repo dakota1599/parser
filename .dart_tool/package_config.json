@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "parser",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    }
+  ],
+  "generated": "2023-01-28T00:38:12.250297Z",
+  "generator": "pub",
+  "generatorVersion": "2.18.7"
+}
