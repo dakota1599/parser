@@ -5,3 +5,11 @@ class CommandLineArgumentException implements Exception {
     return this.cause;
   }
 }
+
+class NonOperableException implements Exception {
+  String cause = "This operation is not operable.";
+
+  toString() {
+    return this.cause;
+  }
+}
